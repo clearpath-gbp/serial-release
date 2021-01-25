@@ -1,3 +1,26 @@
+## serial (noetic) - 1.2.1-1
+
+The packages in the `serial` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic serial` on `Mon, 25 Jan 2021 19:30:12 -0000`
+
+The `serial` package was released.
+
+Version of package(s) in repository `serial`:
+
+- upstream repository: https://github.com/wjwwood/serial.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## serial (melodic) - 1.2.1-0
 
 The packages in the `serial` repository were released into the `melodic` distro by running `/Users/william/.pyenv/versions/2.7.15/bin/bloom-release -r melodic -t melodic serial` on `Wed, 21 Nov 2018 02:38:25 -0000`
