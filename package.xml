@@ -1,9 +1,11 @@
 <?xml version="1.0"?>
 <package>
   <name>serial</name>
-  <version>1.2.1</version>
+  <version>2.0.0</version>
   <description>
-    Serial is a cross-platform, simple to use library for using serial ports on computers.  This library provides a C++, object oriented interface for interacting with RS-232 like devices on Linux and Windows.
+    Serial is a cross-platform, simple to use library for using serial ports on computers.
+    This library provides a C++, object oriented interface for interacting with RS-232
+    like devices on Linux and Windows.
   </description>
 
   <maintainer email="william@osrfoundation.org">William Woodall</maintainer>
@@ -17,8 +19,12 @@
   <author email="wjwwood@gmail.com">William Woodall</author>
   <author email="ash.gti@gmail.com">John Harrison</author>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
   <test_depend>boost</test_depend>
+
+  <export>
+  <build_type>ament_cmake</build_type>
+  </export>
 
 </package>
