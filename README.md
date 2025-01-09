@@ -1,3 +1,26 @@
+## serial (humble) - 2.0.1-1
+
+The packages in the `serial` repository were released into the `humble` distro by running `/usr/bin/bloom-release serial -r humble -r humble` on `Thu, 09 Jan 2025 10:30:46 -0000`
+
+The `serial` package was released.
+
+Version of package(s) in repository `serial`:
+
+- upstream repository: https://github.com/clearpathrobotics/serial-ros2.git
+- release repository: https://github.com/clearpath-gbp/serial-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## serial (jazzy) - 2.0.0-1
 
 The packages in the `serial` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release serial -t jazzy -r jazzy` on `Mon, 16 Dec 2024 18:17:36 -0000`
